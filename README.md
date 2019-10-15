@@ -1,1 +1,3 @@
-# test01.c
+#include<stdio.h>
+
+int
